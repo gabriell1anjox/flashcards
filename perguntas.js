@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Perguntas Gerais',
+    'Qual o maior mamífero do mundo?',
+    'O maior mamífero do mundo é a baleia azul'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Perguntas Gerais',
+    'Qual o maior país do mundo?',
+    'maior país do mundo é a rússia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Perguntas gerais',
+    'Quem foi o primeiro presidente dos estados unidos?',
+    'Foi George Washington'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Perguntas gerais',
+    'Quantas camadas tem o olho?',
+    'O olho tem três camadas'
+)
+
+criaCartao(
+    'Perguntas gerais',
+    'Quem escreveu o livro Dom Casmurro?',
+    'Machado de Assis'
+)
+
+criaCartao(
+    'Perguntas gerais',
+    'qual a língua mais falada no mundo?',
+    'a mais falada é mandarim'
 )
